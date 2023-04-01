@@ -21,7 +21,6 @@ Apenas uma chave [API](https://console.cloud.google.com/) de relação separa Ta
 ```bash
 const API_KEY = "AIzaSyBHmDvBAPF-q-XXXXXXXXXXXXXXXXXXXX";
 ```
-⠀          
           
 <h2>🔎 Métodos</h2>
 
@@ -35,7 +34,7 @@ Tudo o que foi utilizado para a criação desse projeto:
         
 <h2>🔑 Como utilizar essa Tabela com seu Banco Próprio</h2>
 
-<h3>1. Abra o site Console.Cloud da sua conta Google, e abra o Menu superior esquerdo</h3>
+<h3>1. Abra o site [Console.Cloud](https://console.cloud.google.com/) da sua conta Google, e abra o Menu superior esquerdo</h3>
 
 ![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte1.png?raw=true)
 
