@@ -51,27 +51,29 @@ Tudo o que foi utilizado para a criação desse projeto:
 
 <h3>4. Já na barra de pesquisa, procure por Google Sheets API, assim como na ilustração a seguir</h3>
 
-![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte4.png?raw=true)
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte4.png?raw=true" height="auto" width="820px" style="border-radius:50%">
 
 <h3>5. Encontrada a seguinte API, clique sobre ela e faça a instalação</h3>
 
-![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte5.png?raw=true)
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte5.png?raw=true" height="auto" width="820px" style="border-radius:50%">
 
 <h3>6. Com a API instalada, no mesmo menu esquerdo, procure por Credenciais</h3>
 
-![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte6.png?raw=true)
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte6.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
 <h3>7. Localize sua chave API, por padrão o nome vem da seguinte forma: Chave de API 1</h3>
 
-![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte7.png?raw=true)
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte7.png?raw=true" height="auto" width="820px" style="border-radius:50%">
 
 <h3>8. Logo após localizar sua chave, basta copia-lá</h3>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte8.png?raw=true" height="auto" width="320px" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte8.png?raw=true" height="auto" width="820px" style="border-radius:50%">
 
 <h3>9. Agora localize no código da Tabela [1 ou 2]</h3>
-Substitua a linha de código a seguir com a sua Chave API, encontrada no passo 8.  
-Para te ajudar, utilize `CTRL + F`, para conseguir buscar por esta linha de código
+Substitua a linha de código a seguir com a sua Chave API, encontrada no passo 8.                
+Para te ajudar, utilize
+`CTRL+F`
+, para conseguir buscar por esta linha de código
 
 ```bash
 // API KEY
