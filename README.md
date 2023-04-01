@@ -2,10 +2,10 @@
 <p id="description">O sistema de Tabelas funciona de acordo com um Armazenamento Alternativo, não utilizando um banco de dados em linguagem SQL, faz uso de planilhas, sim, Spreadsheets do Google. Ferramenta na qual qualquer usuário com uma conta Google consegue ter acesso por meio de suas ferramentas google.</p>
 
  <a url="#"><img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/tabela.png?raw=true" height="auto" width="auto" style="border-radius:50%"></a>
-⠀
-⠀
-⠀
-
+ ⠀
+ ⠀
+ ⠀
+ ⠀
 <h2>📀 Idéia</h2>
 
 > Tudo começou com a vontade de fazer algo prático,
