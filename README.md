@@ -8,7 +8,9 @@ O sistema de Tabelas com Armazenamento Alternativo, não utilizando um banco de 
 > funcional e principalmente, adáptavel. No github temos apenas como
 > hospedar sites dinamicos com JavaScript e site estáticos, porém, sem PHP.
 
-`Para fazer uso de um Banco de Dados em SQL, o mínimo necessário é rodar um código fonte em PHP. Pensando nisso, é fato que a maioria de nós não queremos ter que pagar uma Hospedagem apenas para testar nossos projetos, tanto para mostrar aos outros. Por isso, muitos optam por fazer uso dos repositórios do GitHub com um Host particular.`
+```sh
+Para fazer uso de um Banco de Dados em SQL, o mínimo necessário é rodar um código fonte em PHP. Pensando nisso, é fato que a maioria de nós não queremos ter que pagar uma Hospedagem apenas para testar nossos projetos, tanto para mostrar aos outros. Por isso, muitos optam por fazer uso dos repositórios do GitHub com um Host particular.
+```
 
 Utilizando apenas JavaScript como linguagem para fazer a conexão entre, Site e Banco, consegui chegar no resultado esperado, um site com banco de dados externo, totalmente adaptado para o [github](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet).
 
