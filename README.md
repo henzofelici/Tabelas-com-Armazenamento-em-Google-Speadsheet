@@ -1,8 +1,6 @@
 <h1 align="center" id="title">Tabela com Armazenamento em Google Spreadsheet ⚙</h1>
 <p id="description">O sistema de Tabelas funciona de acordo com um Armazenamento Alternativo, não utilizando um banco de dados em linguagem SQL, faz uso de planilhas, sim, Spreadsheets do Google. Ferramenta na qual qualquer usuário com uma conta Google consegue ter acesso por meio de suas ferramentas google.</p>
 
-<!-- ![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/tabela.png?raw=true) -->
-
  <a url="#"><img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/tabela.png?raw=true" height="auto" width="auto" style="border-radius:50%"></a>
 
 <h2>📀 Idéia</h2>
@@ -21,22 +19,19 @@ Apenas uma chave [API](https://console.cloud.google.com/) de relação separa Ta
 const API_KEY = "AIzaSyBHmDvBAPF-q-X-------------------w";
 ```
 
-
-
 <h2>💻 Linguagens e desenvolvimento</h2>
-
 Tudo o que foi utilizado para a criação desse projeto:
 
-*   JavaScript (Conexão) / (LocalStorage para o Tema Escuro e Claro)
-*   API do Gsheets (Google-Sheets/SpreadSheets)
-*   HTML5/CSS3
+*   JavaScript (Conexão entre Site e Banco) / (LocalStorage -> Tema Escuro e Claro)
+*   GSheets API (Google-Sheets/SpreadSheets)
+*   HTML5 / CSS3
 
 <h2>🛠️ Como utilizar essa Tabela com seu Banco Próprio</h2>
 
 <p>1. Abra o site seu Console.Cloud da sua conta Google</p>
 
 ```
-
+![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte1.png?raw=true)
 ```
 
 
