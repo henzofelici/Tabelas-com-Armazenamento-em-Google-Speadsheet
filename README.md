@@ -28,9 +28,9 @@ const API_KEY = "AIzaSyBHmDvBAPF-q-XXXXXXXXXXXXXXXXXXXX";
 
 Tudo o que foi utilizado para a criação desse projeto:
 
-*   JavaScript (Conexão entre Site e Banco) / (LocalStorage -> Tema Escuro e Claro)
-*   GSheets API (Google-Sheets/SpreadSheets)
-*   HTML5 / CSS3
+- [x] JavaScript (Conexão entre Site e Banco) / (LocalStorage -> Tema Escuro e Claro)
+- [x] GSheets API (Google-Sheets/SpreadSheets)
+- [x] HTML5 / CSS3
 ⠀      
 ⠀        
 ⠀        
@@ -68,6 +68,15 @@ Tudo o que foi utilizado para a criação desse projeto:
 <p>8. Logo após localizar sua chave, basta copia-lá</p>
 
 ![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte8.png?raw=true)
+
+<p>9. Agora localize no código da Tabela [1 ou 2]</p>
+Substitua a linha de código a seguir com a sua Chave API, encontrada no passo 8.  
+Para te ajudar, utilize CTRL + F, para conseguir buscar por esta linha de código
+
+```bash
+// API KEY
+const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
+```
 ⠀        
 ⠀        
 ⠀        
