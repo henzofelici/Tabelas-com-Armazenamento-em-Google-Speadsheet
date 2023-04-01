@@ -1,12 +1,12 @@
 <h1 align="center" id="title">Tabela com Armazenamento em Google Spreadsheet ⚙</h1>
 <p id="description">O sistema de Tabelas funciona de acordo com um Armazenamento Alternativo, não utilizando um banco de dados em linguagem SQL, faz uso de planilhas, sim, Spreadsheets do Google. Ferramenta na qual qualquer usuário com uma conta Google consegue ter acesso por meio de suas ferramentas google.</p>
 
- <a url="#"><img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/tabela.png?raw=true" height="auto" width="auto" style="border-radius:50%"></a>
+ <center><img align="center" src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/tabela.png?raw=true" height="auto" width="920px"></center>
  ⠀          
  ⠀        
  ⠀        
  ⠀          
-<h2>📀 Idéia</h2>
+<h2>🌟 Idéia</h2>
 
 > Tudo começou com a vontade de fazer algo prático,
 > funcional e principalmente, adáptavel. No github temos apenas como
@@ -22,22 +22,20 @@ Apenas uma chave [API](https://console.cloud.google.com/) de relação separa Ta
 const API_KEY = "AIzaSyBHmDvBAPF-q-XXXXXXXXXXXXXXXXXXXX";
 ```
 ⠀          
-⠀          
           
-<h2>💻 Linguagens e desenvolvimento</h2>
+<h2>🔎 Métodos</h2>
 
 Tudo o que foi utilizado para a criação desse projeto:
 
-- [x] JavaScript (Conexão entre Site e Banco) / (LocalStorage -> Tema Escuro e Claro)
-- [x] GSheets API (Google-Sheets/SpreadSheets)
-- [x] HTML5 / CSS3
+*    JavaScript (Conexão entre Site e Banco) / (LocalStorage -> Tema Escuro e Claro)
+*    GSheets API (Google-Sheets/SpreadSheets)
+*    HTML5 / CSS3
 ⠀      
-⠀        
 ⠀        
         
 <h2>🛠️ Como utilizar essa Tabela com seu Banco Próprio</h2>
 
-<h3>1. Abra o site seu Console.Cloud da sua conta Google, e abra o Menu superior esquerdo</h3>
+<h3>1. Abra o site Console.Cloud da sua conta Google, e abra o Menu superior esquerdo</h3>
 
 ![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte1.png?raw=true)
 
@@ -70,20 +68,22 @@ Tudo o que foi utilizado para a criação desse projeto:
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte8.png?raw=true" height="auto" width="820px" style="border-radius:50%">
 
 <h3>9. Agora localize no código da Tabela [1 ou 2]</h3>
+
 Substitua a linha de código a seguir com a sua Chave API, encontrada no passo 8.                
-Para te ajudar, utilize
-`CTRL+F`
-, para conseguir buscar por esta linha de código
+Para te ajudar, utilize `CTRL + F`, para conseguir buscar por esta linha de código
 
 ```bash
 // API KEY
 const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
 ```
+
+<h3>10. Para criar uma planilha e armazenar Dados, entre no aplicativo Spreadsheet da Google, dentro do seu perfil no Navegador ou Celular</h3>
+
+
+
+
 ⠀        
 ⠀        
-⠀        
-        
-                
 Ao final de todas etapas, sua tabela deverá estar totalmente pronta para receber novos Dados e Informações de suas planilhas.
 Dessa forma você consegue desfrutar de todos os benefícios da forma que escolher.
 
