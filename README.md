@@ -28,9 +28,39 @@ Tudo o que foi utilizado para a criação desse projeto:
 
 <h2>🛠️ Como utilizar essa Tabela com seu Banco Próprio</h2>
 
-<p>1. Abra o site seu Console.Cloud da sua conta Google</p>
+<p>1. Abra o site seu Console.Cloud da sua conta Google, e abra o Menu superior esquerdo</p>
 
 ![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte1.png?raw=true)
+
+<p>2. Localize a opção API's e Serviços > API's e Serviços Ativados</p>
+
+![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte2.png?raw=true)
+
+<p>3. Já em API's e Serviços, agora localize a opção Biblioteca</p>
+
+![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte3.png?raw=true)
+
+<p>4. Já na barra de pesquisa, procure por Google Sheets API, assim como na ilustração a seguir</p>
+
+![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte4.png?raw=true)
+
+<p>5. Encontrada a seguinte API, clique sobre ela e faça a instalação</p>
+
+![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte5.png?raw=true)
+
+<p>6. Com a API instalada, no mesmo menu esquerdo, procure por Credenciais</p>
+
+![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte6.png?raw=true)
+
+<p>7. Localize sua chave API, por padrão o nome vem da seguinte forma: Chave de API 1</p>
+
+![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte7.png?raw=true)
+
+<p>8. Logo após localizar sua chave, basta copia-lá</p>
+
+![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte8.png?raw=true)
+
+
 
 Ao final de todas essas etapas, a sua tabela já deve estar totalmente pronta para receber novos Dados
 de suas planilhas. Dessa forma você consegue desfrutar de todos os benefícios da forma que escolher.
