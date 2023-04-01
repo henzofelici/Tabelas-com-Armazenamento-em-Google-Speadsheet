@@ -30,10 +30,7 @@ Tudo o que foi utilizado para a criação desse projeto:
 
 <p>1. Abra o site seu Console.Cloud da sua conta Google</p>
 
-```
 ![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte1.png?raw=true)
-```
-
 
 Ao final de todas essas etapas, a sua tabela já deve estar totalmente pronta para receber novos Dados
 de suas planilhas. Dessa forma você consegue desfrutar de todos os benefícios da forma que escolher.
