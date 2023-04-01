@@ -21,10 +21,10 @@ Apenas uma chave [API](https://console.cloud.google.com/) de relação separa Ta
 ```bash
 const API_KEY = "AIzaSyBHmDvBAPF-q-XXXXXXXXXXXXXXXXXXXw";
 ```
-⠀
-⠀
-⠀
-
+⠀          
+⠀          
+⠀        
+          
 <h2>💻 Linguagens e desenvolvimento</h2>
 
 Tudo o que foi utilizado para a criação desse projeto:
@@ -32,10 +32,10 @@ Tudo o que foi utilizado para a criação desse projeto:
 *   JavaScript (Conexão entre Site e Banco) / (LocalStorage -> Tema Escuro e Claro)
 *   GSheets API (Google-Sheets/SpreadSheets)
 *   HTML5 / CSS3
-⠀
-⠀
-⠀
-
+⠀      
+⠀        
+⠀        
+        
 <h2>🛠️ Como utilizar essa Tabela com seu Banco Próprio</h2>
 
 <p>1. Abra o site seu Console.Cloud da sua conta Google, e abra o Menu superior esquerdo</p>
@@ -69,10 +69,10 @@ Tudo o que foi utilizado para a criação desse projeto:
 <p>8. Logo após localizar sua chave, basta copia-lá</p>
 
 ![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte8.png?raw=true)
-⠀
-⠀
-⠀
-
+⠀        
+⠀        
+⠀        
+        
 Ao final de todas etapas, sua tabela deverá estar totalmente pronta para receber novos Dados e Informações de suas planilhas.
 Dessa forma você consegue desfrutar de todos os benefícios da forma que escolher.
 
