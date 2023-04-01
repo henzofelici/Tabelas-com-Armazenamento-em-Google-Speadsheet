@@ -1,4 +1,4 @@
-![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/tabelaapenas.png?raw=true)
+![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/tabela.png?raw=true)
 
 # Sistema
 
