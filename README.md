@@ -23,7 +23,6 @@ const API_KEY = "AIzaSyBHmDvBAPF-q-XXXXXXXXXXXXXXXXXXXw";
 ```
 ⠀          
 ⠀          
-⠀        
           
 <h2>💻 Linguagens e desenvolvimento</h2>
 
@@ -73,6 +72,7 @@ Tudo o que foi utilizado para a criação desse projeto:
 ⠀        
 ⠀        
         
+                
 Ao final de todas etapas, sua tabela deverá estar totalmente pronta para receber novos Dados e Informações de suas planilhas.
 Dessa forma você consegue desfrutar de todos os benefícios da forma que escolher.
 
