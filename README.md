@@ -19,7 +19,7 @@ Utilizando apenas JavaScript como linguagem para fazer a conexão entre, Site e 
 
 Apenas uma chave [API](https://console.cloud.google.com/) de relação separa Tabela e Banco de Dados
 ```bash
-const API_KEY = "AIzaSyBHmDvBAPF-q-XXXXXXXXXXXXXXXXXXXw";
+const API_KEY = "AIzaSyBHmDvBAPF-q-XXXXXXXXXXXXXXXXXXXX";
 ```
 ⠀          
 ⠀          
