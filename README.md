@@ -67,7 +67,7 @@ Tudo o que foi utilizado para a criação desse projeto:
 
 <h3>8. Logo após localizar sua chave, basta copia-lá</h3>
 
-![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte8.png?raw=true)
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte8.png?raw=true" height="auto" width="320px" style="border-radius:50%">
 
 <h3>9. Agora localize no código da Tabela [1 ou 2]</h3>
 Substitua a linha de código a seguir com a sua Chave API, encontrada no passo 8.  
