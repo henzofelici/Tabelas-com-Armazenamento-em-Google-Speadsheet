@@ -33,23 +33,12 @@ Tudo o que foi utilizado para a criação desse projeto:
 
 <h2>🛠️ Como utilizar essa Tabela com seu Banco Próprio</h2>
 
-<p>1. Abra o site</p>
+<p>1. Abra o site seu Console.Cloud da sua conta Google</p>
 
 ```
-Parte 1
-```
-
-<p>2. sdfsdf</p>
 
 ```
-Parte 2
-```
 
-<p>3. sdfsdf</p>
-
-```
-Parte 3
-```
 
 Ao final de todas essas etapas, a sua tabela já deve estar totalmente pronta para receber novos Dados
 de suas planilhas. Dessa forma você consegue desfrutar de todos os benefícios da forma que escolher.
