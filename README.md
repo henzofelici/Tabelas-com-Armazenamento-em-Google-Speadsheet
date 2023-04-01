@@ -60,9 +60,7 @@ Tudo o que foi utilizado para a criação desse projeto:
 
 ![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte8.png?raw=true)
 
-
-
-Ao final de todas essas etapas, a sua tabela já deve estar totalmente pronta para receber novos Dados
-de suas planilhas. Dessa forma você consegue desfrutar de todos os benefícios da forma que escolher.
+Ao final de todas etapas, sua tabela deverá estar totalmente pronta para receber novos Dados e Informações de suas planilhas.
+Dessa forma você consegue desfrutar de todos os benefícios da forma que escolher.
 
 ![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/tabeladados.png?raw=true)
