@@ -3,7 +3,7 @@
 
 <!-- ![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/tabela.png?raw=true) -->
 
- <a url="#"><img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/tabela.png" height="auto" width="auto" style="border-radius:50%"></a>
+ <a url="#"><img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/tabela.png?raw=true" height="auto" width="auto" style="border-radius:50%"></a>
 
 <h2>📀 Idéia</h2>
 
