@@ -159,4 +159,4 @@ Dessa forma você consegue desfrutar de todos os benefícios da forma que escolh
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/henzofelici/license)
