@@ -80,7 +80,9 @@ Para te ajudar, utilize `CTRL+F`, para conseguir buscar por esta linha de códig
 // API KEY
 const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
 ```
-Você irá precisar selecionar tudo o que está entre "aspas" e substituir pela sua `Chave API` encontrada na etapa anterior. Utilize `CTRL+V` ou `botão direito` e `colar`.
+Você irá precisar selecionar tudo o que está entre "aspas" e substituir pela sua `Chave API` encontrada na etapa anterior. Utilize `CTRL+V` ou `botão direito` e `colar`
+
+<br />
 <br />
 <br />
 <p>10. Para criar uma planilha e armazenar Dados, entre no aplicativo Spreadsheet da Google, dentro do seu perfil no Navegador ou Celular</p>
