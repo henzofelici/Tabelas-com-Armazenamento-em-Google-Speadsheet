@@ -156,3 +156,7 @@ Ao final de todas etapas, sua tabela deverá estar totalmente pronta para recebe
 Dessa forma você consegue desfrutar de todos os benefícios da forma que escolher.
 
 ![](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/tabela_dados.png?raw=true)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
