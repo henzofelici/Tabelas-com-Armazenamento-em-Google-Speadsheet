@@ -134,22 +134,23 @@ const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/8.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 <br />
 <br />
-<p>19. Cole o link de sua Planilha na URL, selecione apenas a parte com numeros, letras e caracteres especiais, que ficam entre os demarcadores de endereço "/", são apenas esses 44 caracteres que iremos utilizar</p>
+<p>19. Cole o link de sua Planilha na URL, selecione apenas a parte com números, letras e caracteres especiais, que ficam entre os demarcadores de endereço "/", são apenas esses 44 caracteres que iremos utilizar</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/9.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
-Agora, copie apenas esta parte da URL, de 44 caracteres, com `CTRL+C` ou botão direito e `Copiar`
+Copie apenas esta parte da URL, de 44 caracteres, com `CTRL+C` ou `botão direito` e `Copiar`
 <br />
 <br />
 <br />
 
-20. Com a URL da sua Spreadsheet em mãos, agora é a hora do seu Banco de Dados ganhar vida. Com auxílio do `CTRL+F`, encontre a linha de código abaixo nos arquivos de tabelas [1 ou 2].
+20. Com a URL da sua Spreadsheet em mãos, com auxílio do comando `CTRL+F`, encontre a linha de código abaixo nos arquivos das Tabelas [1 ou 2]
 
 ```bash
 // Spreadsheet ID
 const spreadsheetId = "1dwkU5kETN3lCGGvDDPG_EmLqJjNgdEserCRreQMSOXw";
 ```
-Agora basta substituir `1dwkU5kETN3lCGGvDDPG_EmLqJjNgdEserCRreQMSOXw` pela sua URL, do seu Banco de Dados personalizado.
+Agora basta substituir `1dwkU5kETN3lCGGvDDPG_EmLqJjNgdEserCRreQMSOXw` pela sua URL copiada na etapa 19, cole-a com `CTRL+V` ou selecione todo o código acima que está entre "aspas"
+e substitua com `botão direito` e `colar`, com isso você consegue efetuar ativação do seu Banco de Dados personalizado
 <br />
 <br />
 <br />
