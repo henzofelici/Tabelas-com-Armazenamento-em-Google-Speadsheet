@@ -11,7 +11,7 @@
 > hospedar sites dinamicos com JavaScript e site estáticos, porém, sem PHP.
 
 Para fazer uso de um Banco de Dados em SQL, o mínimo necessário é rodar um código fonte em PHP. O sistema é idealizado
-para ajudar nós, que não vamos pagar uma Hospedagem apenas para testar projetos, e fazeremos uso dos repositórios do GitHub.
+para ajudar nós, que não vamos pagar uma Hospedagem apenas para testar projetos, e faremos uso dos repositórios do GitHub.
 
 Utilizando apenas JavaScript como linguagem para fazer a conexão entre, Site e Banco, consegui chegar no resultado esperado, um site com banco de dados externo, totalmente adaptado para o [github](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet).
 
