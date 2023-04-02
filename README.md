@@ -77,15 +77,15 @@ const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/1.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
-<p>11. </p>
+<p>11. Selecione a função Planilhas, que são os Google Spreadsheets</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/2.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
-<p>12. </p>
+<p>12. Dentro de Planilhas, encontre o seguinte ícone</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/3.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
-<p>13. </p>
+<p>13. Agora crie uma nova planilha</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/4.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
