@@ -159,4 +159,4 @@ Dessa forma você consegue desfrutar de todos os benefícios da forma que escolh
 
 ## ❄ Licença
 
-[MIT](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/LICENCE)
+[MIT](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/21524d76d5b5b5272f3502b2058da6b53d452d0a/LICENSE)
