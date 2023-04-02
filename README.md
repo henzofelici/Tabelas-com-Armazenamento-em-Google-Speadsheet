@@ -84,7 +84,6 @@ Você irá precisar selecionar tudo o que está entre "aspas" e substituir pela 
 
 <br />
 <br />
-<br />
 <p>10. Para criar uma planilha e armazenar Dados, entre no aplicativo Spreadsheet da Google, dentro do seu perfil no Navegador ou Celular</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/1.png?raw=true" height="auto" width="auto" style="border-radius:50%">
