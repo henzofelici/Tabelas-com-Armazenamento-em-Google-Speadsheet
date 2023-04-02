@@ -138,18 +138,19 @@ const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/9.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 <br />
 <br />
-<p>20. Com a URL da sua Spredsheet em mãos, agora é a hora do seu Banco de Dados ganhar vida</p>
 
-Com auxílio do `CTRL+F`, encontre a linha de código abaixo nos arquivos de tabelas [1 ou 2]
+20. Com a URL da sua Spreadsheet em mãos, agora é a hora do seu Banco de Dados ganhar vida. Com auxílio do `CTRL+F`, encontre a linha de código abaixo nos arquivos de tabelas [1 ou 2].
 
 ```bash
 // Spreadsheet ID
 const spreadsheetId = "1dwkU5kETN3lCGGvDDPG_EmLqJjNgdEserCRreQMSOXw";
 ```
-
 Agora basta substituir `1dwkU5kETN3lCGGvDDPG_EmLqJjNgdEserCRreQMSOXw` pela sua URL, do seu Banco de Dados personalizado.
-⠀        
-⠀        
+<br />
+<br />
+<br />
+<br />
+<br />
 Ao final de todas etapas, sua tabela deverá estar totalmente pronta para receber novos Dados e Informações de suas planilhas.
 Dessa forma você consegue desfrutar de todos os benefícios da forma que escolher.
 
