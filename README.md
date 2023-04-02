@@ -94,26 +94,34 @@ const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/10.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
          
-> Após concluída, sua tabela estará pronta, porém, é necessário mais algumas etapas.⠀        ⠀        
+> Após concluída a etapa 14, sua tabela estará pronta, porém, seré necessário mais algumas etapas.⠀        ⠀        
 > Como por exemplo, pegar a ID desse seu Banco em Spreadsheet e integra-lo ao código.⠀        ⠀        
 > Aprenda a seguir como fazer isso da maneira correta!⠀        ⠀        
         
         
-<p>15. Com a Planilha preenchida, busque pela opção, `Compartilhar`</p>
+<p>15. Com a Planilha preenchida, busque pela opção, Compartilhar</p>
+
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/5.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+
+<p>16. Mude o acesso geral para: Qualquer pessoa com o link</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/6.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
-<p>16. </p>
+<p>17. Selecione a opção de Leitor, para sua própria segurança</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/7.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
-<p>17. </p>
+<p>18. Agora copie o link de sua Planilha</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/8.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
-<p>18. </p>
+<p>19. Cole o link de sua Planilha na URL, agora selecione apenas esta parte com numeros, letras e caracteres especiais, que ficam entre esses demarcadores de endereço "/", são apenas esses 44 Caracteres que iremos utilizar</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/9.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+
+<p>20. </p>
+
+
 ⠀        
 ⠀        
 Ao final de todas etapas, sua tabela deverá estar totalmente pronta para receber novos Dados e Informações de suas planilhas.
