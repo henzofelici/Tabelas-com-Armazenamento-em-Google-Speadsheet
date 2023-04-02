@@ -29,7 +29,7 @@ Tudo o que foi utilizado para a criação desse projeto:
 ⠀      
 ⠀        
         
-<h2>🔑 Como utilizar essa Tabela com seu Banco Próprio</h2>
+<h2>🔑 Utilize essa tabela como seu próprio Banco de Dados</h2>
 
 <p>1. Abra o site Console.Cloud da sua conta Google, e abra o Menu superior esquerdo</p>
 
