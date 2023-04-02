@@ -17,10 +17,7 @@ para ajudar nós, que não vamos pagar uma Hospedagem apenas para testar projeto
 
 Utilizando apenas JavaScript como linguagem para fazer a conexão entre, Site e Banco, consegui chegar no resultado esperado, um site com banco de dados externo, totalmente adaptado para o [github](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet).
 
-Apenas uma chave [API](https://console.cloud.google.com/) de relação separa Tabela e Banco de Dados
-```bash
-const API_KEY = "AIzaSyBHmDvBAPF-q-XXXXXXXXXXXXXXXXXXXX";
-```
+Apenas uma chave [API](https://console.cloud.google.com/) de relação separa Tabela e Banco de Dados.
           
 <h2>🔎 Métodos</h2>
 
