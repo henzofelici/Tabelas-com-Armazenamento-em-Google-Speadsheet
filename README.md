@@ -110,7 +110,7 @@ Você irá precisar selecionar tudo o que está entre "aspas" e substituir pela 
 <br />
 <br />
 
-> Após concluída a etapa 14, sua tabela estará pronta, porém, seré necessário mais algumas etapas.⠀        ⠀        
+> Após concluída a etapa 14, sua tabela estará pronta, porém, será necessário mais algumas etapas.⠀        ⠀  
 > Como por exemplo, pegar a ID desse seu Banco em Spreadsheet e integra-lo ao código.⠀        ⠀        
 > Aprenda a seguir como fazer isso da maneira correta!
 
