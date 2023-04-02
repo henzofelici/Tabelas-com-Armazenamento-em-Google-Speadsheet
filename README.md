@@ -128,7 +128,7 @@ Com auxílio do `CTRL+F`, encontre a linha de código abaixo nos arquivos de tab
 const spreadsheetId = "1dwkU5kETN3lCGGvDDPG_EmLqJjNgdEserCRreQMSOXw";
 ```
 
-Agora basta substituir "1dwkU5kETN3lCGGvDDPG_EmLqJjNgdEserCRreQMSOXw" pela sua URL, do seu Banco de Dados personalizado.
+Agora basta substituir `1dwkU5kETN3lCGGvDDPG_EmLqJjNgdEserCRreQMSOXw` pela sua URL, do seu Banco de Dados personalizado.
 ⠀        
 ⠀        
 Ao final de todas etapas, sua tabela deverá estar totalmente pronta para receber novos Dados e Informações de suas planilhas.
