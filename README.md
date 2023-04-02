@@ -2,10 +2,8 @@
 <p id="description">O sistema de Tabelas funciona de acordo com um Armazenamento Alternativo, não utilizando um banco de dados em linguagem SQL, faz uso de planilhas, sim, Spreadsheets do Google. Ferramenta na qual qualquer usuário com uma conta Google consegue ter acesso por meio de suas ferramentas google.</p>
 
  <center><img align="center" src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/tabela_geral.png?raw=true" height="auto" width="920px"></center>
- ⠀          
- ⠀        
- ⠀        
- ⠀          
+<br />
+<br />
 <h2>🌟 Idéia</h2>
 
 > Tudo começou com a vontade de fazer algo prático,
@@ -18,17 +16,19 @@ para ajudar nós, que não vamos pagar uma Hospedagem apenas para testar projeto
 Utilizando apenas JavaScript como linguagem para fazer a conexão entre, Site e Banco, consegui chegar no resultado esperado, um site com banco de dados externo, totalmente adaptado para o [github](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet).
 
 Apenas uma chave [API](https://console.cloud.google.com/) de relação separa Tabela e Banco de Dados.
-          
+<br />
+<br />
+<br />
+
 <h2>🔎 Métodos</h2>
 
 Tudo o que foi utilizado para a criação desse projeto:
 
-*    JavaScript (Conexão entre Site e Banco) / (LocalStorage -> Tema Escuro e Claro)
-*    GSheets API (Google-Sheets/SpreadSheets)
+*    JavaScript (Conexão / LocalStorage)
+*    G.Sheets API (Google-Sheets / SpreadSheets)
 *    HTML5 / CSS3
-⠀      
-⠀        
-        
+
+<br />
 <h2>🔑 Utilize essa tabela como seu próprio Banco de Dados</h2>
 
 <p>1. Abra o site Console.Cloud da sua conta Google, e abra o Menu superior esquerdo</p>
@@ -80,7 +80,8 @@ Para te ajudar, utilize `CTRL+F`, para conseguir buscar por esta linha de códig
 // API KEY
 const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
 ```
-
+<br />
+<br />
 <p>10. Para criar uma planilha e armazenar Dados, entre no aplicativo Spreadsheet da Google, dentro do seu perfil no Navegador ou Celular</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/1.png?raw=true" height="auto" width="auto" style="border-radius:50%">
@@ -112,7 +113,7 @@ const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
 > Aprenda a seguir como fazer isso da maneira correta!
 
 <br />
-<br />        ⠀        ⠀        ⠀    
+<br />
 <p>15. Com a Planilha preenchida, busque pela opção, Compartilhar</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/5.png?raw=true" height="auto" width="auto" style="border-radius:50%">
