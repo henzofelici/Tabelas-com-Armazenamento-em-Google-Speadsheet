@@ -134,9 +134,12 @@ const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/8.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 <br />
 <br />
-<p>19. Cole o link de sua Planilha na URL, selecione apenas a parte com numeros, letras e caracteres especiais, que ficam entre os demarcadores de endereço "/", são apenas esses 44 caracteres que iremos utilizar, COPIE apenas esta parte da URL com `CTRL+C`, ou botão direito `Copiar`</p>
+<p>19. Cole o link de sua Planilha na URL, selecione apenas a parte com numeros, letras e caracteres especiais, que ficam entre os demarcadores de endereço "/", são apenas esses 44 caracteres que iremos utilizar</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/9.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+
+Agora, copie apenas esta parte da URL, de 44 caracteres, com `CTRL+C` ou botão direito e `Copiar`
+<br />
 <br />
 <br />
 
