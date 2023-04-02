@@ -78,7 +78,7 @@ Para te ajudar, utilize `CTRL+F`, para conseguir buscar por esta linha de códig
 
 ```bash
 // API KEY
-const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
+const API_KEY = "39-CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXX";
 ```
 Você irá precisar selecionar tudo o que está entre "aspas" e substituir pela sua `Chave API` encontrada na etapa anterior. Utilize `CTRL+V` ou `botão direito` e `colar`
 
@@ -152,7 +152,7 @@ Copie apenas esta parte da URL, de 44 caracteres, com `CTRL+C` ou `botão direit
 const spreadsheetId = "1dwkU5kETN3lCGGvDDPG_EmLqJjNgdEserCRreQMSOXw";
 ```
 Agora basta substituir `1dwkU5kETN3lCGGvDDPG_EmLqJjNgdEserCRreQMSOXw` pela sua URL copiada na etapa 19, cole-a com `CTRL+V` ou selecione todo o código acima que está entre "aspas"
-e substitua com `botão direito` e `colar`, com isso você consegue efetuar ativação do seu Banco de Dados personalizado
+e substitua com `botão direito` e `colar`, com isso você consegue efetuar ativação do seu Banco de Dados personalizado.
 <br />
 <br />
 <br />
