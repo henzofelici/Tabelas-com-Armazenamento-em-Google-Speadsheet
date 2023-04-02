@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Tabela com Armazenamento em Google Spreadsheet ⚙</h1>
 <p id="description">O sistema de Tabelas funciona de acordo com um Armazenamento Alternativo, não utilizando um banco de dados em linguagem SQL, faz uso de planilhas, sim, Spreadsheets do Google. Ferramenta na qual qualquer usuário com uma conta Google consegue ter acesso por meio de suas ferramentas google.</p>
 
- <center><img align="center" src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/tabela.png?raw=true" height="auto" width="920px"></center>
+ <center><img align="center" src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/tabela_geral.png?raw=true" height="auto" width="920px"></center>
  ⠀          
  ⠀        
  ⠀        
@@ -33,35 +33,35 @@ Tudo o que foi utilizado para a criação desse projeto:
 
 <p>1. Abra o site Console.Cloud da sua conta Google, e abra o Menu superior esquerdo</p>
 
-![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte1.png?raw=true)
+![](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte1.png?raw=true)
 
 <p>2. Localize a opção API's e Serviços > API's e Serviços Ativados</p>
 
-![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte2.png?raw=true)
+![](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte2.png?raw=true)
 
 <p>3. Já em API's e Serviços, agora localize a opção Biblioteca</p>
 
-![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte3.png?raw=true)
+![](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte3.png?raw=true)
 
 <p>4. Já na barra de pesquisa, procure por Google Sheets API, assim como na ilustração a seguir</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte4.png?raw=true" height="auto" width="820px" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte4.png?raw=true" height="auto" width="820px" style="border-radius:50%">
 
 <p>5. Encontrada a seguinte API, clique sobre ela e faça a instalação</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte5.png?raw=true" height="auto" width="820px" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte5.png?raw=true" height="auto" width="820px" style="border-radius:50%">
 
 <p>6. Com a API instalada, no mesmo menu esquerdo, procure por Credenciais</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte6.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte6.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
 <p>7. Localize sua chave API, por padrão o nome vem da seguinte forma: Chave de API 1</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte7.png?raw=true" height="auto" width="820px" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte7.png?raw=true" height="auto" width="820px" style="border-radius:50%">
 
 <p>8. Logo após localizar sua chave, basta copia-lá</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/uso/parte8.png?raw=true" height="auto" width="820px" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte8.png?raw=true" height="auto" width="820px" style="border-radius:50%">
 
 <p>9. Agora localize no código da Tabela [1 ou 2]</p>
 
@@ -77,10 +77,40 @@ const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/1.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
+<p>11. </p>
 
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/2.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+
+<p>12. </p>
+
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/3.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+
+<p>13. </p>
+
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/4.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+
+<p>14. </p>
+
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/5.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+
+<p>15. </p>
+
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/6.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+
+<p>16. </p>
+
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/7.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+
+<p>17. </p>
+
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/8.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+
+<p>18. </p>
+
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/9.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 ⠀        
 ⠀        
 Ao final de todas etapas, sua tabela deverá estar totalmente pronta para receber novos Dados e Informações de suas planilhas.
 Dessa forma você consegue desfrutar de todos os benefícios da forma que escolher.
 
-![alt text](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/tabeladados.png?raw=true)
+![](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/tabela_dados.png?raw=true)
