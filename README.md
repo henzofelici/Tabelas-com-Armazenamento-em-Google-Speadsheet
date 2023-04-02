@@ -89,11 +89,17 @@ const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/4.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
-<p>14. </p>
+<p>14. Preencha sua planilha. Existe a baixo um exemplo, de como você pode customizar o seu Banco de Dados</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/5.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/10.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
-<p>15. </p>
+         
+> Após concluída, sua tabela estará pronta, porém, é necessário mais algumas etapas.⠀        ⠀        
+> Como por exemplo, pegar a ID desse seu Banco em Spreadsheet e integra-lo ao código.⠀        ⠀        
+> Aprenda a seguir como fazer isso da maneira correta!⠀        ⠀        
+        
+        
+<p>15. Com a Planilha preenchida, busque pela opção, `Compartilhar`</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/6.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 
