@@ -134,7 +134,7 @@ const API_KEY = "39CARACTERES-XXXXXXXXXXXXXXXXXXXXXXXXXX";
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/8.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 <br />
 <br />
-<p>19. Cole o link de sua Planilha na URL, e selecione apenas a parte com numeros, letras e caracteres especiais, que ficam entre os demarcadores de endereço "/", são apenas esses 44 caracteres que iremos utilizar</p>
+<p>19. Cole o link de sua Planilha na URL, selecione apenas a parte com numeros, letras e caracteres especiais, que ficam entre os demarcadores de endereço "/", são apenas esses 44 caracteres que iremos utilizar, COPIE apenas esta parte da URL com `CTRL+C`, ou botão direito `Copiar`</p>
 
 <img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/9.png?raw=true" height="auto" width="auto" style="border-radius:50%">
 <br />
@@ -157,6 +157,7 @@ Dessa forma você consegue desfrutar de todos os benefícios da forma que escolh
 
 ![](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/tabela_dados.png?raw=true)
 
-## ❄ Licença
+<br />
+## Licença
 
 [MIT](https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/21524d76d5b5b5272f3502b2058da6b53d452d0a/LICENSE)
