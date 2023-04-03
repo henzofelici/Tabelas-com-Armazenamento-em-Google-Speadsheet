@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<!-- PROJETO DE TABELAS | AVANÇADA E COMUM -->
+<!-- AMBAS EM FUNCIONAMENTO COM BANCO DE DADOS EM PLANILHAS -->
+<!-- TABELA 1 - AVANÇADA | MOSTRA VÁRIOS E/OU TODOS OS DADOS DA PLANILHA -->
+<!-- TABELA 2 - COMUM | MOSTRA APENAS OS DADOS NECESSÁRIOS OU PERMITIDOS A UMA PARCELA DE USUÁRIOS -->
+
+<head>
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="./css/tabela2.css">
+    <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+
+    <title>Tabela Comum</title>
+
+    <style>
+        #listaRegistros {
+            display: none;
+        }
+
+        body[page=lista] #listaRegistros {
+            display: block;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table th,
+        table td {
+            font-size: 14px;
+            padding: 10px 15px;
+            border: solid 1px #ccc;
+        }
+
+        input {
+            border: solid 1px #ccc;
+            border-radius: 4px;
+            padding: 10px;
+        }
+
+        .label>div {
+            display: flex;
+        }
+
+        .label>div>input {
+            flex: 1;
+        }
+
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            display: none;
+        }
+    </style>
+
+</head>
+
+<body page="lista">
+    <nav class="sidebar close">
+        <header>
+            <div class="image-text">
+                <span class="image">
+                    <!-- <img src="logo.png" alt=""> -->
+                    <span class="name textx">TAB.</span>
+                </span>
+
+                <div class="text logo-text">
+                    <span class="name">TAB.elas com</span>
+                    <span class="profession">Armazenamento.</span>
+                </div>
+            </div>
+
+            <i class='bx bx-chevron-right toggle'></i>
+        </header>
+
+        <div class="menu-bar">
+            <div class="menu">
+
+                <li class="search-box">
+                    <i class='bx bx-search icon'></i>
+                    <input type="number" placeholder="Pesquisar ID" id='pesquisa' onkeyup='tableSearch()'>
+                </li>
+
+            </div>
+
+            <div class="bottom-content">
+
+                <li class="mode">
+                    <div class="sun-moon">
+                        <i class='bx bx-moon icon moon'></i>
+                        <i class='bx bx-sun icon sun'></i>
+                    </div>
+                    <span class="mode-text text">Tema Escuro</span>
+
+                    <div class="toggle-switch">
+                        <span class="switch"></span>
+                    </div>
+                </li>
+
+            </div>
+        </div>
+
+    </nav>
+
+    <section class="home">
+        <div class="text">
+            <main>
+
+                <div class="container">
+                    <!-- Table -->
+                    <table class="table" id="tabl">
+                        <thead id="table-head"></thead>
+                        <tbody id="table-body"></tbody>
+                    </table>
+                    <!-- Table -->
+                </div>
+
+            </main>
+        </div>
+    </section>
+</body>
+
+<script src="./js/tabela2.js"></script>
+<script src="https://apis.google.com/js/api.js"></script>
+<script src="./js/gsheet.js"></script>
+<script>
+    {
+        {
+            // API KEY
+            const API_KEY = "39-CARACTERES-#########################";
+
+            function displayResult2(response) {
+                let tableHead = "";
+                let tableBody = "";
+
+                response.result.values.forEach((row, index) => {
+                    if (index === 0) {
+                        tableHead += "<tr>";
+                        tableHead += "<th>" + "ID" + "</th>";
+                        tableHead += "<th>" + "Nome" + "</th>";
+                        tableHead += "</tr>";
+                    } else {
+                        tableBody += "<tr>";
+                        tableBody += "<td>" + row[0] + "</td>";
+                        tableBody += "<td>" + row[1] + "</td>";
+                        tableBody += "</tr>";
+                    }
+                });
+
+                document.getElementById("table-head").innerHTML = tableHead;
+                document.getElementById("table-body").innerHTML = tableBody;
+            }
+
+            function tableSearch() {
+                let input, filter, table, tr, td, txtValue;
+
+                //Intialising Variables
+                input = document.getElementById("pesquisa");
+                filter = input.value.toUpperCase();
+                table = document.getElementById("tabl");
+                tr = table.getElementsByTagName("tr");
+
+                for (let i = 0; i < tr.length; i++) {
+                    td = tr[i].getElementsByTagName("td")[0];
+                    if (td) {
+                        txtValue = td.textContent || td.innerText;
+                        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                            tr[i].style.display = "";
+                        } else {
+                            tr[i].style.display = "none";
+                        }
+                    }
+                }
+            }
+
+            function loadData() {
+                // Spreadsheet ID
+                const spreadsheetId = "1dwkU5kETN3lCGGvDDPG_EmLqJjNgdEserCRreQMSOXw";
+                const range = "A:Z";
+                getPublicValues({ spreadsheetId, range }, displayResult2);
+            }
+
+            window.addEventListener("load", (e) => {
+                initOAuthClient({ apiKey: API_KEY });
+            });
+
+            document.addEventListener("gapi-loaded", (e) => {
+                loadData();
+            });
+        }
+    }
+</script>
+
+</html>
