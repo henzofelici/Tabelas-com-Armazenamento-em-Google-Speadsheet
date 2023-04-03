@@ -7,11 +7,9 @@
 
 <h2>🎨 Preview</h2>
 
- <a href="https://henzofelici.github.io/Tabelas-com-Armazenamento-em-Google-Speadsheet/TAB.elas%20-%20Armazenamento%20em%20Planilhas/tabela1.html">Teste as tabelas aqui. [Tabela 1]</a>
-<br />
-<a href="https://henzofelici.github.io/Tabelas-com-Armazenamento-em-Google-Speadsheet/TAB.elas%20-%20Armazenamento%20em%20Planilhas/tabela2.html">Teste as tabelas aqui. [Tabela 2]</a>
- 
-<br />
+ - <a href="https://henzofelici.github.io/Tabelas-com-Armazenamento-em-Google-Speadsheet/TAB.elas%20-%20Armazenamento%20em%20Planilhas/tabela1.html">Teste as tabelas aqui [Tabela 1].</a>
+ - <a href="https://henzofelici.github.io/Tabelas-com-Armazenamento-em-Google-Speadsheet/TAB.elas%20-%20Armazenamento%20em%20Planilhas/tabela2.html">Teste as tabelas aqui [Tabela 2].</a>
+
 <br />
 <h2>🌟 Idéia</h2>
 
@@ -154,7 +152,7 @@ Copie apenas esta parte da URL, de 44 caracteres, com `CTRL+C` ou `botão direit
 <br />
 <br />
 
-20. Com a URL da sua Spreadsheet em mãos, com auxílio do comando `CTRL+F`, encontre a linha de código abaixo nos arquivos das Tabelas [1 ou 2]
+20. Com a URL da sua Spreadsheet em mãos, agora com auxílio do comando `CTRL+F`, encontre a linha de código abaixo nos arquivos das Tabelas [1 ou 2]
 
 ```bash
 // Spreadsheet ID
