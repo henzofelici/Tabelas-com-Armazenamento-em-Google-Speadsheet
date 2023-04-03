@@ -1,10 +1,16 @@
 <h1 align="center" id="title">Tabela com Armazenamento em Google Spreadsheet ⚙</h1>
 
-<a href="https://henzofelici.github.io/Tabelas-com-Armazenamento-em-Google-Speadsheet/TAB.elas%20-%20Armazenamento%20em%20Planilhas/tabela1.html">Teste aqui.</a>
-
 <p id="description">O sistema de Tabelas funciona de acordo com um Armazenamento Alternativo, não utilizando um banco de dados em linguagem SQL, faz uso de planilhas, sim, Spreadsheets do Google. Ferramenta na qual qualquer usuário com uma conta Google consegue ter acesso por meio de suas ferramentas google.</p>
 
  <center><img align="center" src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/tabela_geral.png?raw=true" height="auto" width="920px"></center>
+<br />
+
+<h2>🎨 Preview</h2>
+
+ <a href="https://henzofelici.github.io/Tabelas-com-Armazenamento-em-Google-Speadsheet/TAB.elas%20-%20Armazenamento%20em%20Planilhas/tabela1.html">Teste as tabelas aqui. [Tabela 1]</a>
+<br />
+<a href="https://henzofelici.github.io/Tabelas-com-Armazenamento-em-Google-Speadsheet/TAB.elas%20-%20Armazenamento%20em%20Planilhas/tabela2.html">Teste as tabelas aqui. [Tabela 2]</a>
+ 
 <br />
 <br />
 <h2>🌟 Idéia</h2>
@@ -51,27 +57,27 @@ Tudo o que foi utilizado para a criação desse projeto:
 <br />
 <p>4. Já na barra de pesquisa, procure por Google Sheets API, assim como na ilustração a seguir</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte4.png?raw=true" height="auto" width="820px" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte4.png?raw=true" height="auto" width="820px">
 <br />
 <br />
 <p>5. Encontrada a seguinte API, clique sobre ela e faça a instalação</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte5.png?raw=true" height="auto" width="820px" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte5.png?raw=true" height="auto" width="820px">
 <br />
 <br />
 <p>6. Com a API instalada, no mesmo menu esquerdo, procure por Credenciais</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte6.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte6.png?raw=true" height="auto" width="auto">
 <br />
 <br />
 <p>7. Localize sua chave API, por padrão o nome vem da seguinte forma: Chave de API 1</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte7.png?raw=true" height="auto" width="820px" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte7.png?raw=true" height="auto" width="820px">
 <br />
 <br />
 <p>8. Logo após localizar sua chave, basta copia-lá</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte8.png?raw=true" height="auto" width="820px" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/configurar_cloud/parte8.png?raw=true" height="auto" width="820px">
 <br />
 <br />
 <p>9. Agora localize no código da Tabela [1 ou 2]</p>
@@ -89,27 +95,27 @@ Você irá precisar selecionar tudo o que está entre "aspas" e substituir pela 
 <br />
 <p>10. Para criar uma planilha e armazenar Dados, entre no aplicativo Spreadsheet da Google, dentro do seu perfil no Navegador ou Celular</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/1.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/1.png?raw=true" height="auto" width="auto">
 <br />
 <br />
 <p>11. Selecione a função Planilhas, que são os Google Spreadsheets</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/2.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/2.png?raw=true" height="auto" width="auto">
 <br />
 <br />
 <p>12. Dentro de Planilhas, encontre o seguinte ícone</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/3.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/3.png?raw=true" height="auto" width="auto">
 <br />
 <br />
 <p>13. Agora crie uma nova planilha</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/4.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/4.png?raw=true" height="auto" width="auto">
 <br />
 <br />
 <p>14. Preencha sua planilha. Existe a baixo um exemplo, de como você pode customizar o seu Banco de Dados</p>
 
-<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/10.png?raw=true" height="auto" width="auto" style="border-radius:50%">
+<img src="https://github.com/henzofelici/Tabelas-com-Armazenamento-em-Google-Speadsheet/blob/main/readme/criar_planilha/10.png?raw=true" height="auto" width="auto">
 <br />
 <br />
 
